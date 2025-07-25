@@ -75,7 +75,7 @@ I'm a passionate **Full-Stack Software Developer** with expertise in building sc
 
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "Nguyen Tuan Kiet",
   location: "Vietnam",
   languages: ["Java", "Python", "JavaScript"],
   frameworks: ["Spring Boot", "Django", "React"],
