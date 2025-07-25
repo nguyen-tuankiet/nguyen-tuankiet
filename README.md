@@ -47,22 +47,6 @@ I'm a passionate **Full-Stack Software Developer** with expertise in building sc
 - 📈 **Agile/Scrum** - Software Development Lifecycle
 - 🎯 **Project Management** - Jira, Trello
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 💼 What I Do
 
 ### 🎯 My Coding Philosophy
@@ -77,38 +61,13 @@ I'm a passionate **Full-Stack Software Developer** with expertise in building sc
 - Contributing to open-source projects
 - Learning advanced DevOps practices
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🌟 Featured Projects
-
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
-**Full-Stack E-commerce Platform**
-- Built with Spring Boot, React, MySQL
-- Features: User authentication, payment integration, admin dashboard
-- Technologies: Java, Spring Boot, React, Tailwind CSS, MySQL
-
-### 💡 [Project Name 2](https://github.com/yourusername/project2)
-**Task Management System**
-- Django REST API with React frontend
-- Features: Real-time collaboration, project tracking
-- Technologies: Python, Django, React, MongoDB
-
-### 🎨 [Project Name 3](https://github.com/yourusername/project3)
-**Social Media Analytics Dashboard**
-- Data visualization and analytics platform
-- Technologies: Neo4j, Python, React, Docker
-
 ## 📫 Let's Connect
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84123456789)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuankietcoder2211@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ki%E1%BB%87t-nguy%E1%BB%85n-tu%E1%BA%A5n/))
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84362045541)
 
 </div>
 
@@ -126,7 +85,7 @@ const developer = {
 };
 ```
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [ ] Contribute to 5 open-source projects
 - [ ] Build and deploy 3 full-stack applications
@@ -140,8 +99,7 @@ const developer = {
   
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
-⭐️ From [yourusername](https://github.com/yourusename)
+⭐️ From [NguyenTuanKiet](https://github.com/nguyen-tuankiet)
 
 </div>
